@@ -1,4 +1,5 @@
 public class ArraysDemo {
+//修改
 
     //把数组中的元素按照指定的规则组成一个字符串：[元素1, 元素2, ...]
     public static String arrayToString(int[] arr) {
